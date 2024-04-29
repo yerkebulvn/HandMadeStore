@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Qol Öner</string>
+    <string name="app_description">Қолөнер бұйымдары мен бірегей тауарларды сату және сатып алу базары</string>
+    <string name="search">Іздеу</string>
+    <string name="top_dis_items">Жеңілдіктер</string>
+    <string name="categories">Категориялар</string>
+    <string name="recently_view">Соңғы рет қаралған товарлар</string>
+    <string name="product_details">Толығырақ</string>
+    <string name="buy_now">Сатып алу</string>
+</resources>
